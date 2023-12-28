@@ -9,8 +9,8 @@
 Este proyecto incluye un header con enlaces a diferentes secciones, diseñado para un portafolio personal. Utilizo las siguientes tecnologías:
 
 - **HTML**  [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header/index.html)
-- **CSS**   [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header/style.css)
-- **SASS**  [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](Header/Sass/)
+ **CSS**   [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header/style.css)
+ **SASS**  [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](Header/Sass/)
 
 ---
 

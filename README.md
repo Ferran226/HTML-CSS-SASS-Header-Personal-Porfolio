@@ -4,7 +4,7 @@
 
 ¡Hola! 👋 Bienvenido a mi repositorio. Soy Ferran Coll, un apasionado del desarrollo web, y este proyecto muestra un ejemplo de mi trabajo con HTML y CSS, utilizando Sass para crear un header para un portafolio personal, optimizado para pantallas de 1200px de ancho.
 
-## Contenido del Repositorio
+## 📁 Contenido del Repositorio
 
 Este proyecto incluye un header con enlaces a diferentes secciones, diseñado para un portafolio personal. Utilizo las siguientes tecnologías:
 
@@ -20,11 +20,11 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
 
 ![Header](Header/img/Personal_porfolio.png) 
 
-## Recursos Utilizados
+## 🛠️ Recursos Utilizados
 
 🌐 Google Fonts: Se utilizan las fuentes Poppins y Bebas Neue para darle un toque elegante al diseño.
 
-## Personalización
+## 🎨 Personalización
 
 Siéntete libre de personalizar el proyecto según tus necesidades. ¡Agrega tu propio toque creativo y comparte el resultado final!
 

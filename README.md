@@ -18,7 +18,7 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
   Header: Personal Porfolio 
 </h2>
 
-![Header](img/Personal_porfolio.png) 
+![Header](Header/img/Personal_porfolio.png) 
 
 ## Recursos Utilizados
 
